@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/create/page": "app/create/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/api/stripe/route": "app/api/stripe/route.js",
+  "/course/[...slug]/page": "app/course/[...slug]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+}

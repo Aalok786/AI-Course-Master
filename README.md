@@ -8,7 +8,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 ### Prerequisites
 
-Make sure you have Node.js and npm installed on your machine.
+Make sure you have Node.js installed on your machine.
 
 ### Installation
 
@@ -24,7 +24,7 @@ Make sure you have Node.js and npm installed on your machine.
    cd ai-course-master
    ```
 
-3. Create a `.env` file in the root(project>>src>>app>>api) of the project with the following content:
+3. Create a `.env` file in the root(project>>".env") of the project with the following content:
 
    ```env
    NEXTAUTH_SECRET=
@@ -78,4 +78,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Inspiration from the transformative journey into the latest technologies.
 
 Happy coding!
-```

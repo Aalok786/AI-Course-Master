@@ -24,7 +24,7 @@ Make sure you have Node.js installed on your machine.
    cd ai-course-master
    ```
 
-3. Create a `.env` file in the root(project>>src>>app>>api) of the project with the following content:
+3. Create a `.env` file in the root(project>>".env") of the project with the following content:
 
    ```env
    NEXTAUTH_SECRET=
